@@ -1,0 +1,44 @@
+{
+  "name": "partnerproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "dateformat": "^3.0.3",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "get-youtube-id": "^1.0.1",
+    "guild": "^1.2.2",
+    "hh-mm-ss": "^1.2.0",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "node-cmd": "^3.0.0",
+    "node-opus": "^0.3.3",
+    "parse-ms": "^2.1.0",
+    "pretty-ms": "^4.0.0",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "table": "^5.4.6",
+    "youtube-info": "^1.3.2",
+    "ytdl-core": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiTzK/DISCORD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iiTzK/DISCORD/issues"
+  },
+  "homepage": "https://github.com/iiTzK/DISCORD#readme"
+}
