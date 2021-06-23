@@ -57,4 +57,4 @@ client.user.setGame(` Send Me Partner | By Monty`)
 
 
 
-client.login("cv.YNJrNg.lhG1EqzIwfOAvbnmrUPf-Hh_Id8");// Your Token
+client.login("");// Your Token
