@@ -1,2 +1,1 @@
-# -
-پارتنەر
+#Monty Partner
