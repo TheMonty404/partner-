@@ -51,10 +51,10 @@ ${message.content}`)
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Rose 🧿`) 
+client.user.setGame(`Rose 💙`) 
 });
 
 
 
 
-client.login("ODU3MzE0NTk0MjU4OTQ0MDEw.YNNybw.p1rf_WMDM3B2LEMjTpoOwKcXZuE");// Your Token
+client.login("");// Your Token
